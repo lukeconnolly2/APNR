@@ -1,3 +1,5 @@
+This python script allows you to detect licence plates and read there characters with a ML model I have trained.
+
 1. Clone this repository
 2. Install the dependencies (venv recomended)
 ```bash
